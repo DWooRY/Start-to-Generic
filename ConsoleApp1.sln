@@ -47,6 +47,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormGiris", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullaniciGirisFormu", "KullaniciGirisFormu\KullaniciGirisFormu.csproj", "{901F55C1-5E4A-415E-87E7-DE6624462233}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsMessageBoxs", "WindowsFormsMessageBoxs\WindowsFormsMessageBoxs.csproj", "{FBA41C41-A840-434D-A853-7193DD33A9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxUygulama", "MessageBoxUygulama\MessageBoxUygulama.csproj", "{875F3CEB-DEF3-437B-855E-B3B655A8D351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsControls", "WindowsFormsControls\WindowsFormsControls.csproj", "{7A6D4645-71CB-4B0D-B813-64AEBD77D88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFakedataGridsVs", "WindowsFormsFakedataGridsVs\WindowsFormsFakedataGridsVs.csproj", "{F7A4299A-9CBA-4C5B-ACE2-54E0918D4558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +149,22 @@ Global
 		{901F55C1-5E4A-415E-87E7-DE6624462233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{901F55C1-5E4A-415E-87E7-DE6624462233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{901F55C1-5E4A-415E-87E7-DE6624462233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA41C41-A840-434D-A853-7193DD33A9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA41C41-A840-434D-A853-7193DD33A9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA41C41-A840-434D-A853-7193DD33A9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA41C41-A840-434D-A853-7193DD33A9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875F3CEB-DEF3-437B-855E-B3B655A8D351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875F3CEB-DEF3-437B-855E-B3B655A8D351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875F3CEB-DEF3-437B-855E-B3B655A8D351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875F3CEB-DEF3-437B-855E-B3B655A8D351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6D4645-71CB-4B0D-B813-64AEBD77D88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6D4645-71CB-4B0D-B813-64AEBD77D88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6D4645-71CB-4B0D-B813-64AEBD77D88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6D4645-71CB-4B0D-B813-64AEBD77D88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A4299A-9CBA-4C5B-ACE2-54E0918D4558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A4299A-9CBA-4C5B-ACE2-54E0918D4558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A4299A-9CBA-4C5B-ACE2-54E0918D4558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A4299A-9CBA-4C5B-ACE2-54E0918D4558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
